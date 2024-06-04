@@ -14,6 +14,6 @@ Frontend
 * React
 * Typescript
 * Chakra
-<br/>
+
 Backend
 * axios
